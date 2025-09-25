@@ -15,7 +15,7 @@ public class PlayGround extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.playground);  // ⚡ aquí debe ir tu layout correcto
+        setContentView(R.layout.playground);
 
         Button homeButton = findViewById(R.id.ibHome);
 
